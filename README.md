@@ -5,7 +5,7 @@
 - ⚡ Médica Veterinária entrando no mundo da programação
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/AnaClaraPerosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaClaraPerosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClaraPerosa&layout=compact&langs_count=7&theme=dracula"/>
 </div>

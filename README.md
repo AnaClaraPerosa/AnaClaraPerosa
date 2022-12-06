@@ -1,6 +1,6 @@
 ###   Oii, eu sou a Ana Clara Perosa
 
-- 🔭 Partiticipando do Entra21 de 2022
+- 🔭 Entra21 de 2022
 - 🌱 Estudando python e métodos ágeis
 - ⚡ Médica Veterinária entrando no mundo da programação
 

@@ -1,7 +1,7 @@
-###   Oii, eu sou a Ana Clara Perosa
+###   Oii, eu sou a Ana Clara
 
-- 🔭 Entra21 de 2022
-- 🌱 Estudando python e métodos ágeis
+- Desenvolvedora Ruby on Rails Jr.;
+- Python;
 - ⚡ Médica Veterinária entrando no mundo da programação
 
 <div align="center">
@@ -18,7 +18,8 @@
  
 <div>
   <a href="https://www.linkedin.com/in/anaclaraperosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+
   ![Snake animation](https://github.com/AnaClaraPerosa/AnaClaraPerosa/blob/output/github-contribution-grid-snake.svg)
 </div>
+
 

@@ -1,6 +1,7 @@
 ###   Oii, eu sou a Ana Clara
 
-- Desenvolvedora Ruby on Rails Jr.;
+- Desenvolvedora Ruby on Rails;
+- RPA
 - Python;
 - ⚡ Médica Veterinária entrando no mundo da programação
 

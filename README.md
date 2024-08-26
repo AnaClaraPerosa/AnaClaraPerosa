@@ -1,6 +1,6 @@
 # Hiii there! 🌌
 
-- Dev Jr.;
+- Desenvolvedora Jr. Ruby on Rails;
 - Music;
 - Animals;
 
